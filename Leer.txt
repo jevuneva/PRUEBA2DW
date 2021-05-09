@@ -1,0 +1,11 @@
+Prueba Jesus Negrete Vargas para Digital Whare
+
+al lado del ejecutable de servidor DCOM 
+hay un archivo .ini de configuracion para 
+la coneccion con la DB
+
+
+En el .rar de CRUDFact_DW se encuentra script 
+con Structura de la DB SQL server
+Esta contiene tablas y Procedimientos Almacenados 
+Usados en el CRUD con DCOM de FACT
